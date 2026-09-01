@@ -6,6 +6,7 @@
     <link>https://www.mercadolivre.com.br/loja/sata</link>
     <description>Produtos SATA disponíveis no Mercado Livre</description>
 
+<!-- Item 1  150PC -->
     <item>
       <title><![CDATA[Jogo de Ferramentas 150 Peças SATA ST09510L]]></title>
       <link>https://www.mercadolivre.com.br/p/MLB48935779?matt_tool=38524122&amp;pdp_filters=item_id:MLB7390514296&amp;ua=9C_Kf6ImdGuidIwXNJD9LLfGMZHMuvcA4YQXlUSbl8tT_dPm#origin=share&amp;sid=share&amp;wid=MLB7390514296&amp;action=copy</link>
@@ -16,6 +17,7 @@
       <g:mpn>ST09510L</g:mpn>
     </item>
 
+<!-- Item 2  190PC -->
     <item>
       <title><![CDATA[Jogo de Ferramentas 190 Peças SATA ST109543]]></title>
       <link>https://www.mercadolivre.com.br/jogo-de-ferramentas-para-oficina-190-pecas-st109543-sata/up/MLBU3638836426?pdp_filters=official_store%3A280402%7Cdeal%3AMLB1762628-1#polycard_client=search-desktop&amp;be_origin=backend&amp;overlay_label=not_apply&amp;search_layout=grid&amp;position=11&amp;type=product&amp;tracking_id=9d560e24-2ccf-4c71-bb3d-c69c31b28de9&amp;wid=MLB7448979008&amp;sid=search</link>
@@ -26,16 +28,85 @@
       <g:mpn>ST09510L</g:mpn>
     </item>
 
+<!-- Item 3  BOLTBITER-->
     <item>
       <title><![CDATA[Jogo Boltbiter Para Extração De Parafusos 23pc Sata ST09138]]></title>
       <link>https://www.mercadolivre.com.br/jogo-boltbiter-para-extracao-de-parafusos-23pc-sata-st09138/p/MLB28283544?pdp_filters=official_store%3A280402%7Cdeal%3AMLB1763860-1#polycard_client=search-desktop&amp;be_origin=backend&amp;overlay_label=not_apply&amp;search_layout=grid&amp;position=1&amp;type=product&amp;tracking_id=aa42f872-59f9-4516-895d-5e3aa1815230&wid=MLB7449157880&amp;sid=search</link>
-      <description><![CDATA[]]></description>
-      <g:id>ST109543</g:id>
-      <g:image_link>https://http2.mlstatic.com/D_NQ_NP_2X_768209-MLB99743331079_112025-F-jogo-de-ferramentas-para-oficina-190-pecas-st109543-sata.webp</g:image_link>
+      <description><![CDATA[Jogo de soquetes de extração Bolt Biter SATA® com 23 peças, desenvolvido para remover e apertar parafusos e porcas espanados, enferrujados ou danificados. Possui design cônico interno que proporciona maior aderência ao fixador, além de construção em aço cromo molibdênio (Cr-Mo) para maior resistência e durabilidade. Acompanha maleta para organização e transporte.]]></description>
+      <g:id>ST09138</g:id>
+      <g:image_link>https://www.sataferramentas.com.br/sites/sata_brazil/files/styles/product_medium/public/pim_images/SAT_ST09138_IMG_MAIN_011.jpg?itok=O_CAsKV0</g:image_link>
       <g:brand>SATA</g:brand>
-      <g:mpn>ST09510L</g:mpn>
+      <g:mpn>ST09138</g:mpn>
     </item>
-    
+
+<!-- Item 4  CAIXA 70PC -->
+     <item>
+      <title><![CDATA[Caixa De Ferramentas Completa 70 Peças 5 Gavetas Sata ST95104A70-6]]></title>
+      <link>https://www.mercadolivre.com.br/caixa-de-ferramentas-completa-70-pecas-5-gavetas-sata/up/MLBU3217997880?pdp_filters=official_store%3A280402#polycard_client=search-desktop&amp;be_origin=backend&amp;overlay_label=not_apply&amp;search_layout=grid&amp;position=4&amp;type=product&amp;tracking_id=64b2ab20-6d4d-4c07-8bb4-5438a011de5e&amp;wid=MLB4083234931&amp;sid=search</link>
+      <description><![CDATA[A Caixa Sanfonada para Ferramentas SATA com 5 gavetas é uma ótima opção para manter suas ferramentas organizadas. Com sua pintura eletroestática que é mais resistente a danos e corrosão, possui alças que facilitam o transporte dos itens de forma prática e segura, além de que a pintura cria uma camada protetora, tornando o produto ainda mais durável.Com design compacto e eficiente, visa a economia de espaço, versatilidade e organização eficaz, levando para o consumidor uma solução ideal e competitiva com a qualidade, resistência e durabilidade SATA. Com 70 peças incluídas, fabricadas em Aço Cromo-Vanádio, você terá mais eficiência em seus trabalhos na área industrial ou automotiva.]]></description>
+      <g:id>ST95104A70-6</g:id>
+      <g:image_link>https://http2.mlstatic.com/D_NQ_NP_2X_994542-MLU78529858230_082024-F-caixa-de-ferramentas-completa-70-pecas-5-gavetas-sata.webp</g:image_link>
+      <g:brand>SATA</g:brand>
+      <g:mpn>ST95104A70-6</g:mpn>
+    </item>
+
+<!-- Item 5  CHAVE DE IMPACTO-->
+     <item>
+      <title><![CDATA[Chave De Impacto 1/2 40kgf Brushless 20v C/ Bateria ST151073]]></title>
+      <link>https://www.mercadolivre.com.br/chave-de-impacto-12-40kgf-brushless-20v-c-bateria/up/MLBU4815999874?pdp_filters=official_store%3A280402%7Cdeal%3AMLB1762610-1</link>
+      <description><![CDATA[A Chave de Impacto 1/2" a Bateria 20V SATA foi desenvolvida para aplicações profissionais que exigem alto torque, precisão e durabilidade. Equipada com tecnologias avançadas e design ergonômico, oferece desempenho superior, controle total e máxima eficiência em operações de aperto e desaperto, mesmo nas condições mais exigentes.Oferecendo máxima versatilidade e mobilidade para aplicações profissionais. Por ser alimentada por bateria, elimina a necessidade de cabos ou compressores, proporcionando liberdade de movimento, facilidade de transporte e praticidade no uso em diferentes ambientes de trabalho — inclusive locais de difícil acesso ou sem ponto de energia.Aliada a tecnologias avançadas e design ergonômico, assegura alto desempenho, precisão e confiabilidade, seguindo os rigorosos padrões de qualidade SATA.]]></description>
+      <g:id>ST151073</g:id>
+      <g:image_link>https://http2.mlstatic.com/D_NQ_NP_2X_945712-MLB116377891811_082026-F-chave-de-impacto-12-40kgf-brushless-20v-c-bateria.webp</g:image_link>
+      <g:brand>SATA</g:brand>
+      <g:mpn>ST151073</g:mpn>
+    </item>
+
+<!-- Item 6  ALICATE -->
+     <item>
+      <title><![CDATA[Alicate Corte Tesoura 8 SATA ST72504L]]></title>
+      <link>https://www.mercadolivre.com.br/alicate-corte-tesoura-8-st72504l-sata/p/MLB63189501?pdp_filters=official_store%3A280402#polycard_client=search-desktop&amp;e_origin=backend&amp;overlay_label=not_apply&amp;search_layout=grid&amp;position=3&amp;type=product&amp;tracking_id=95d1a6cf-6368-45ed-9d52-1aad871be8b4&amp;wid=MLB5088245483&amp;sid=search</link>
+      <description><![CDATA[Alicate de corte profissional isolado de 8" SATA, desenvolvido para cortes precisos de cabos flexíveis de cobre de até Ø11 mm. Possui arestas de corte tipo tesoura que reduzem a força aplicada, cabo isolado para trabalhos em instalações elétricas de até 1000V e corpo em aço Cromo-Vanádio (Cr-V), garantindo resistência, durabilidade e segurança.]]></description>
+      <g:id>ST72504L</g:id>
+      <g:image_link>https://http2.mlstatic.com/D_NQ_NP_2X_634303-MLA101440748977_122025-F.webp</g:image_link>
+      <g:brand>SATA</g:brand>
+      <g:mpn>ST72504L</g:mpn>
+    </item>
+
+<!-- Item 7  CAVALETE -->
+     <item>
+      <title><![CDATA[Cavalete para Veículo 6T (Par) SATA STAE5827L]]></title>
+      <link>https://www.mercadolivre.com.br/cavalete-para-veiculo-sata-6-ton-par-stae5827l-sata/up/MLBU4951161762?pdp_filters=official_store%3A280402#polycard_client=search-desktop&amp;be_origin=backend&amp;overlay_label=not_apply&amp;search_layout=grid&amp;position=1&amp;type=product&amp;tracking_id=741240fe-d3f5-414b-9cd6-3bdebb73f99b&amp;wid=MLB5131745279&amp;sid=search</link>
+      <description><![CDATA[O Cavalete para veículo 6T (PAR) SATA é uma ferramenta automotiva para apoio de carga que sustenta o automóvel, atuando de maneira complementar ao macaco hidráulico e garante ao usuário mais segurança no trabalho com seu travamento duplo. O produto conta com estrutura reforçada em aço soldado para maior estabilidade, conferindo confiança durante a operação com o peso indicado. Para a sua segurança utilize os cavaletes sempre em pares e em superfícies planas e rígidas.]]></description>
+      <g:id>STAE5827L</g:id>
+      <g:image_link>https://www.sataferramentas.com.br/sites/sata_brazil/files/styles/product_medium/public/pim_images/SAT_STAE5827L_IMG_MAIN_01.jpg?itok=O-DboqM8</g:image_link>
+      <g:brand>SATA</g:brand>
+      <g:mpn>STAE5827L</g:mpn>
+    </item>
+
+<!-- Item 8 MORSA -->
+     <item>
+      <title><![CDATA[Morsa de Bancada 6" SATA ST70843SC]]></title>
+      <link>https://www.mercadolivre.com.br/morsa-de-bancada-com-base-giratoria-numero-6-st70843sc-sata/p/MLB22688204?pdp_filters=official_store%3A280402#polycard_client=search-desktop&amp;be_origin=backend&amp;overlay_label=not_apply&amp;search_layout=grid&amp;position=3&amp;type=product&amp;tracking_id=9ca8e88c-935b-406b-a9ef-9066cee92d4f&amp;wid=MLB5235831462&amp;sid=search</link>
+      <description><![CDATA[Estrutura reforçada, mais segura e versátil. Possui base usinada com 4 furos para fixação na bancada garantindo mais estabilidade e sua estrutura em aço quadrado garante mais força de aperto. Possui mordente específico para tubos e substituível com maior superfície de trabalho para conformação.É um excelente equipamento para mecânicos profissionais no momento de construir diversas peças, além de fazer acabamentos como: cortar e lixar.]]></description>
+      <g:id>ST70843SC</g:id>
+      <g:image_link>https://http2.mlstatic.com/D_NQ_NP_2X_720684-MLA99443076008_112025-F.webp</g:image_link>
+      <g:brand>SATA</g:brand>
+      <g:mpn>ST70843SC</g:mpn>
+    </item>
+
+<!-- Item 9  JG TORQ AXIAL
+
+     <item>
+      <title><![CDATA[Torquimetro Axial 1/4 01-06nm Jogo Bits 32 Peças SATA ST159202S]]></title>
+      <link></link>
+      <description><![CDATA[Garanta aperto preciso, seguro e profissional em cada aplicação com o Jogo de Torquímetro Axial SATA 1–6 Nm ¼” com 32 Bits. Desenvolvido para trabalhos que exigem controle absoluto de torque, este conjunto é ideal para mecânicos, técnicos, montadores e profissionais que não podem correr riscos de aperto excessivo ou insuficiente. Com construção robusta, escala de fácil leitura e ampla variedade de bits, ele entrega confiabilidade, durabilidade e versatilidade em um único kit.]]></description>
+      <g:id>ST159202S</g:id>
+      <g:image_link>https://www.sataferramentas.com.br/sites/sata_brazil/files/styles/product_medium/public/pim_images/SAT_ST159202S_MAIN.jpg?itok=w9Ln5Alk</g:image_link>
+      <g:brand>SATA</g:brand>
+      <g:mpn>ST159202S</g:mpn>
+    </item>
+-->
+
   </channel>
 </rss>
 
